@@ -1,3 +1,22 @@
 body {
-  padding-top: 70px;  /* Move body of page below navbar. */
+  padding-top: 0px;  /* Move body of page below navbar. */
+  font-family: 'Open Sans', sans-serif;
+  color: #28233E;
+}
+#headerimage{
+  height: 250px;
+  width: 100%;
+}
+
+.navbar-inverse{
+  background-color: #28233E;
+  border-color: #28233E;
+  color: white;
+  border-radius: 0px;
+}
+a.dropdown-toggle{
+  color: white;
+}
+.navbar-inverse .navbar-brand{
+  color: white;
 }

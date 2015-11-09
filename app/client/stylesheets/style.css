@@ -1,7 +1,16 @@
 body {
   padding-top: 0px;  /* Move body of page below navbar. */
   font-family: 'Open Sans', sans-serif;
-  color: #28233E;
+  color: white;
+  background-color: #2E3676;
+}
+a{
+  color: white;
+}
+button.btn.btn-primary{
+  background-color: #FCD116;
+  border: 0;
+  color: black;
 }
 #headerimage{
   height: 250px;
@@ -18,5 +27,13 @@ a.dropdown-toggle{
   color: white;
 }
 .navbar-inverse .navbar-brand{
+  color: white;
+}
+
+.well{
+  background-color: black;
+  border:0;
+}
+legend {
   color: white;
 }

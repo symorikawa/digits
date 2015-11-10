@@ -1,3 +1,4 @@
+/* global Contact */
 /**
  * A list of Stuff to pre-fill the Collection.
  * @type {*[]}

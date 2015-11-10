@@ -1,3 +1,5 @@
+/* global Contact */
+
 Template.ListContact.helpers({
 
   /**
